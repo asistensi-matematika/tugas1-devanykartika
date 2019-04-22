@@ -52,3 +52,8 @@ Nilai dari a tidak boleh sama dengan 0
 ~~~~
 
 [link ke laporan]
+
+![-230](https://user-images.githubusercontent.com/49514331/56495668-ae59f280-6520-11e9-8eab-a959df8b56a2.png)
+![1-21](https://user-images.githubusercontent.com/49514331/56495664-a9953e80-6520-11e9-8c7a-4095b4f56777.png)
+![-30-3](https://user-images.githubusercontent.com/49514331/56495665-ab5f0200-6520-11e9-90bc-f501b65738c1.png)
+![000](https://user-images.githubusercontent.com/49514331/56495659-a8641180-6520-11e9-83d5-42c08d5385b8.png)
