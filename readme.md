@@ -53,7 +53,8 @@ Nilai dari a tidak boleh sama dengan 0
 
 [link ke laporan]
 
-![-230](https://user-images.githubusercontent.com/49514331/56495668-ae59f280-6520-11e9-8eab-a959df8b56a2.png)
-![1-21](https://user-images.githubusercontent.com/49514331/56495664-a9953e80-6520-11e9-8c7a-4095b4f56777.png)
-![-30-3](https://user-images.githubusercontent.com/49514331/56495665-ab5f0200-6520-11e9-90bc-f501b65738c1.png)
-![000](https://user-images.githubusercontent.com/49514331/56495659-a8641180-6520-11e9-83d5-42c08d5385b8.png)
+![1](https://user-images.githubusercontent.com/49514331/56508159-b3816680-654d-11e9-9607-fecb21720150.png)
+![2](https://user-images.githubusercontent.com/49514331/56508163-b419fd00-654d-11e9-8ab1-97bd1c48a7a3.png)
+![3](https://user-images.githubusercontent.com/49514331/56508164-b419fd00-654d-11e9-8e4e-e7fa025981c0.png)
+![4](https://user-images.githubusercontent.com/49514331/56508169-b8461a80-654d-11e9-8ed0-308e6072581e.png)
+
